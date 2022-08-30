@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Number Wizard and Hidden Object",
+"productVersion": "v0.1",
+"dataUrl": "Number Wizard and Hidden Object.data.unityweb",
+"wasmCodeUrl": "Number Wizard and Hidden Object.wasm.code.unityweb",
+"wasmFrameworkUrl": "Number Wizard and Hidden Object.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
